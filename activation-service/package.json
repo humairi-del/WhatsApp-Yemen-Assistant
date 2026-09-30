@@ -1,6 +1,6 @@
 {
   "name": "whatsapp-yemen-activation-service",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "type": "module",
   "engines": { "node": ">=20" },
@@ -8,6 +8,7 @@
   "dependencies": {
     "express": "^5.1.0",
     "helmet": "^8.1.0",
-    "express-rate-limit": "^8.1.0"
+    "express-rate-limit": "^8.1.0",
+    "pg": "^8.16.3"
   }
 }
